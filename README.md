@@ -7,8 +7,6 @@ This repositore is a join of:
 
 [crispy-eureka](https://github.com/maiconwa/crispy-eureka)
 
-<br>
-
 [crispy-eureka-react](https://github.com/maiconwa/crispy-eureka-react)
 
 <br>
